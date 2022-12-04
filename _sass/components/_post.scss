@@ -38,13 +38,13 @@
 
 			.meta {
 				@include padding(_size(section-spacing) * 1.25, _size(section-spacing));
-				border-left: solid 1px _palette(border);
-				min-width: 17em;
+				border-left: solid 2px _palette(border);
+				min-width: 20em;
 				text-align: right;
-				width: 17em;
+				width: 20em;
 
 				> * {
-					margin: 0 0 (_size(element-margin) * 0.5) 0;
+					margin: 0 0 (_size(element-margin)) 0;
 				}
 
 				> :last-child {

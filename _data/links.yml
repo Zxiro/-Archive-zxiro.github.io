@@ -1,6 +1,6 @@
 # blog page sections
-- name: category1
-  href: '/category1/'
+- name: Stream Content
+  href: '/stream-content/'
 
-- name: category2
-  href: '/category2/'
+- name: Essay
+  href: '/essay/'

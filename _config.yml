@@ -1,19 +1,17 @@
-title: IT-блог
+title: Zxiro Website
 description: > # this means to ignore newlines until "baseurl:"
   Blog with theme Future Imperfect<br>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://future-imperfect.kaptn.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zxiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author:
-  name: 'Viktoriya Kapitonenko'
-  last_name: 'Kapitonenko'
-  cv: '//kaptn.ru'
-  avatar: '/images/avatar.jpeg'
-  github_username:  kaptn3  
-  email: vika@kaptn.ru
-  vk_id: id201664979
-  telegram_name: vikapitoshka 
+  name: 'Zxiro'
+  last_name: 'Yang'
+  cv: '//www.linkedin.com/in/zih-you-yang/'
+  avatar: '/images/avatar.svg'
+  github_username: Zxiro
+  email: zxirocon@gmail.com 
   logo: '/images/logo.svg'
 
 # Build settings
