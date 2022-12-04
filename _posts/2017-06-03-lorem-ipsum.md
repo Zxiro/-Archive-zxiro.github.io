@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stream Cpntent Ep1"
+title:  "ReadMe Ep1"
 date:   2022-12-05 00:00
 category: stream-content
 icon: www-black
