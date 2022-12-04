@@ -1,5 +1,5 @@
 # blog page sections
-- name: Movie & Show
+- name: Movie
   href: '/movie/'
 
 - name: Essay
