@@ -2,7 +2,7 @@ title: Zxiro Website
 description: > # this means to ignore newlines until "baseurl:"
   Blog with theme Future Imperfect<br>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zxiro.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zxiro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author:
