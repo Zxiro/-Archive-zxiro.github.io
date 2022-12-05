@@ -8,7 +8,8 @@ url: "https://zxiro.github.io/" # the base hostname & protocol for your site, e.
 author:
   name: 'Zxiro'
   last_name: 'Yang'
-  cv: '//www.linkedin.com/in/zih-you-yang/'
+  cv: 'https://drive.google.com/file/d/19VCn6MTQqbyiQJQVz6WK0TITqWiUI4L7/view?usp=sharing'
+  linkedin: '//www.linkedin.com/in/zih-you-yang/'
   avatar: '/images/avatar.svg'
   github_username: Zxiro
   email: zxirocon@gmail.com 

@@ -1,6 +1,6 @@
 # blog page sections
-- name: Movie
-  href: '/movie/'
+- name: Stream Content
+  href: '/stream-content/'
 
 - name: Essay
   href: '/essay/'
