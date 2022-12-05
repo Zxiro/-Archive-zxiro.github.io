@@ -3,7 +3,7 @@ layout: post
 title:  "Crypto & Invest Ep1"
 date:   2022-08-12 00:00
 category: essay
-icon: www-black
+icon: article
 keywords: tag1, tag2
 image: 1.jpg
 preview: 0
