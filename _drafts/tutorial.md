@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Readme"
-date:   2017-02-20 21:00
-category: essay
-icon: www-black
+title:  "Lorem"
+date:   2017-06-04 00:00
+category: category-
+icon: git
 keywords: tag1, tag2
-image: 1.jpg
+image: 1.png
 preview: 0
 ---
 
