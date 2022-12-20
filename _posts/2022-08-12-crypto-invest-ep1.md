@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Crypto & Invest Ep1"
+title:  "Crypto & Invest Ep1 加密協議的架構重置"
 date:   2022-08-12 00:00
 category: essay
 icon: article
 keywords: tag1, tag2
 image: 1.jpg
-preview: 0
+preview: 1
 ---
 ## Subscribed Note
 ### 加密協議的架構重置
