@@ -6,7 +6,7 @@ category: essay
 icon: article
 keywords: tag1, tag2
 image: Apple.png
-preview: 1
+preview: 0
 ---
 # AAPL Q422 Earning Call
 ## 營收
