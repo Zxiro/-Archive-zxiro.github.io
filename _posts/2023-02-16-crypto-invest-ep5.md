@@ -9,6 +9,8 @@ image: ETH.jpeg
 preview: 0
 ---
 # 2023 加密領域的十大趨勢 Wallet Utility Improvement
+ 
+ (This is the translation of article: https://medium.com/hashed-official/top-10-trends-in-2023-an-overview-by-hashed-81d85cad9a6e )
 
 隨著加密行業的發展以及其基礎建設的發展，終端用戶的安全以及 UX 重要性隨之提升。但作為 dApps 接口的錢包卻仍存有挑戰。
 錢包注記詞、個人私鑰管理還有簽署協定這些對於大部分的終端用戶是一個不可忽視的阻力。以下會提到現有的錢包解決方案。
