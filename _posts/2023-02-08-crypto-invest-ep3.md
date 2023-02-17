@@ -12,16 +12,17 @@ preview: 0
 ## Background
 * $META 在經歷總經環境的衝擊造成的廣告業務影響加上祖克柏本人公開發表對元宇宙義無反顧投入的情況下，從 2022 開始到股價最低跌了快 75% 。（根據 TradingView，我不確定大缺口是否為除息，但是那天是法說會所以高機率是法會。）
 
-<img src="https://i.imgur.com/M9HAesd.png" />
+![](https://i.imgur.com/M9HAesd.png){:style="display:block; margin-left:auto; margin-right:auto" width="100%"}
+
 
 * 提一下同為數位廣告的大頭 $SNAP 是看不到有復活的跡象
 
-<img src="https://i.imgur.com/sQxVQFM.png" />
+![](https://i.imgur.com/sQxVQFM.png){:style="display:block; margin-left:auto; margin-right:auto" width="100%"}
 
 ## Q4’ 22 Earning Call
 * 雖然去年整年曝險資產大逃殺，消費性電子以及電子商務需求下滑連動造成的$META 的廣告業務、雲端服務各方面都受到打擊。除此之外他們還需要對付 Tiktok 短影音對於 $META 用戶時間的搶奪。但在幾天前的財報公布後， $META 直接跳漲 25% 以上。讓人不禁好奇高管做了什麼讓投資人重拾對 $META 的信心
 
-<img src="https://i.imgur.com/zvWudfa.png" />
+![](https://i.imgur.com/zvWudfa.png){:style="display:block; margin-left:auto; margin-right:auto" width="100%"}
 
 ## 電話會議
 > 以下的電話會議整理節錄來自 Gamma 的付費服務，因此只會就 $META 公開的內容整理我一些想法筆記

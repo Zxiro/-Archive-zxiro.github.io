@@ -16,6 +16,7 @@ preview: 0
 ![](https://i.imgur.com/To9u0ZY.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 1. 錢包私鑰管理以及簽署驗證
+
 * Web3Auth ([Home](https://web3auth.io/))
 	* 使用 MPC 多方計算（Multi-Party Computation）來提供非託管 (non-custodial ) 的登入體驗
 	* 用戶無需記憶註記詞，可以用 Web2 帳號來登入錢包
@@ -30,8 +31,10 @@ preview: 0
 	* 透過其提供的 Mobile SDK ，用戶可以使用社交帳戶還有 SSO (Single Sign On ) 來登入
 
 2. 行動裝置錢包
+
 * Coin98
 	* 用戶基數達到 6 M 的行動超級 App
+
 * Robinhood
 	* 正在開發獨立的錢包應用程式來解決以下問題
 		* 不親民的設計
@@ -39,6 +42,7 @@ preview: 0
 
 3. 智能合約錢包
 	* 智能合約可以提供如花用限制、自動交易還有大幅提高安全性的多簽功能
+
 * Argent [Argent – The best Ethereum wallet for DeFi and NFTs.](https://www.argent.xyz/)
 	* 提供社交回覆（V 神大推）還有有限制的下單功能
 * Safe  [Overview - Safe](https://safe.global/) 
